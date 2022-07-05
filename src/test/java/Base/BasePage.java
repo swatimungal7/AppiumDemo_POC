@@ -37,8 +37,7 @@ public class BasePage {
   
         //caps.setCapability("appPackage", "com.sec.android.app.popupcalculator");
         //caps.setCapability("appActivity", "com.sec.android.app.popupcalculator.Calculator");
-        
-        //run this cmd in command prompt --- appium --allow-insecure chromedriver_autodownload----
+     
         
         //caps.setCapability("chromedriverExecutable", "C:\\Users\\swati\\AppData\\Roaming\\npm\\node_modules\\appium\\node_modules\\appium-chromedriver");
         
